@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xesextension name="Deciclare2" prefix="deci2" uri="TBD/deci2.xesext">
+	<event>
+		<string key="eventtype">
+			<alias mapping="EN" name="Event_Type"/>
+		</string>
+		<date key="timestamp_start">
+			<alias mapping="EN" name="Timestamp_Start"/>
+		</date>
+		<date key="timestamp_end">
+			<alias mapping="EN" name="Timestamp_End"/>
+		</date>
+	</event>
+</xesextension>

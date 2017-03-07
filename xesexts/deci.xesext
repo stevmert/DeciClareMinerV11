@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xesextension name="Deciclare" prefix="deci" uri="TBD">
+	<event>
+		<string key="resource1">
+			<alias mapping="EN" name="Resource1"/>
+		</string>
+		<string key="resource2">
+			<alias mapping="EN" name="Resource2"/>
+		</string>
+		<string key="resource3">
+			<alias mapping="EN" name="Resource3"/>
+		</string>
+		<string key="resource4">
+			<alias mapping="EN" name="Resource4"/>
+		</string>
+		<string key="resource5">
+			<alias mapping="EN" name="Resource5"/>
+		</string>
+		<date key="timestamp_start">
+			<alias mapping="EN" name="Timestamp_Start"/>
+		</date>
+		<date key="timestamp_end">
+			<alias mapping="EN" name="Timestamp_End"/>
+		</date>
+	</event>
+</xesextension>
